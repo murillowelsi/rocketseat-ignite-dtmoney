@@ -13,15 +13,15 @@ createServer({
       transactions: [
         {
           id: 1,
-          title: 'Website freelance',
+          title: 'Monthly Wage',
           type: 'deposit',
-          category: 'Fodase',
-          amount: 6000,
+          category: 'Salary',
+          amount: 2500,
           createdAt: new Date('2022-02-12 09:00:00'),
         },
         {
           id: 2,
-          title: 'Rental',
+          title: 'House rent',
           type: 'withdraw',
           category: 'Expenses',
           amount: 750,
